@@ -30,5 +30,6 @@ void shell_sort(int *array, size_t size);
 void cocktail_sort_list(listint_t **list);
 size_t matrix(int *array, int ka, int jey, size_t tam);
 void recursivity(int *array, int ka, int jey, size_t tam);
+void merge_sort(int *array, size_t size);
 
 #endif
